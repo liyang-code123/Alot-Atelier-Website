@@ -126,7 +126,7 @@ body.inteco-boxed .inteco-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .inteco-header-style-bar .inteco-logo-right-text{ padding-top: 30px; } 
 .inteco-logo{ padding-top: 72px; } 
 .inteco-logo{ padding-bottom: 60px; } 
-.inteco-logo-inner{ max-width: 130px; } 
+.inteco-logo-inner{ max-width: 200px; }
 @media only screen and (max-width: 999px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 90px; } } 
 @media only screen and (max-width: 767px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 70px; } } 
 .inteco-navigation, .inteco-header-right-social{ padding-top: 78px; }.inteco-navigation-top{ top: 78px; } 
