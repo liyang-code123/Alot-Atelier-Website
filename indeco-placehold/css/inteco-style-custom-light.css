@@ -127,8 +127,8 @@ body.inteco-boxed .inteco-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .inteco-logo{ padding-top: 72px; } 
 .inteco-logo{ padding-bottom: 60px; } 
 .inteco-logo-inner{ max-width: 200px; }
-@media only screen and (max-width: 999px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 90px; } } 
-@media only screen and (max-width: 767px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 70px; } } 
+@media only screen and (max-width: 999px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 180px; } }
+@media only screen and (max-width: 767px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 140px; } }
 .inteco-navigation, .inteco-header-right-social{ padding-top: 78px; }.inteco-navigation-top{ top: 78px; } 
 .inteco-navigation .sf-menu > li > a{ padding-bottom: 20px; } 
 .inteco-navigation .inteco-main-menu{ padding-right: 0px; } 
