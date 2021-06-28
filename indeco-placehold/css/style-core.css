@@ -525,7 +525,7 @@ body.inteco-boxed.inteco-background-pattern {
 
 .inteco-column-15 {
 	float: left;
-	width: 25%;
+	width: 33%;
 }
 
 .inteco-column-20 {
@@ -605,8 +605,9 @@ button {
 }
 
 img {
-	max-width: 100%;
-	height: auto;
+	max-width: 150%;
+	max-height: 60%;
+	/*height: auto;*/
 }
 
 blockquote {
