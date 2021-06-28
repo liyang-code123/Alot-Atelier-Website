@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b4a5bf6-cb28-48de-b2a8-76907ae6e649" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../assets/css/SyntaxHighlighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/css/documenter_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/css/img/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/css/img/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/spinning.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_spinning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/google-code-prettify/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/google-code-prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/jquery.scrollTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/shBrushCss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/shBrushJScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/shBrushXml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/shCore.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +78,6 @@
       <recent name="$PROJECT_DIR$/unused" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +90,7 @@
       <workItem from="1624770134262" duration="922000" />
       <workItem from="1624771114931" duration="623000" />
       <workItem from="1624771769100" duration="652000" />
-      <workItem from="1624772432790" duration="31865000" />
+      <workItem from="1624772432790" duration="32180000" />
     </task>
     <servers />
   </component>
