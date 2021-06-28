@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b4a5bf6-cb28-48de-b2a8-76907ae6e649" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alotimages/hp1-about-bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/logo-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/logo-trans1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-our-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/about-our-team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/about-us-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/about-us-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/accordion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alotimages/Flowers.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/contact-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/contact-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/inteco-style-custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/inteco-style-custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-core.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-core.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get-a-quote.html" beforeDir="false" afterPath="$PROJECT_DIR$/get-a-quote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/homepage-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/homepage-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/homepage-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/homepage-6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/light.html" beforeDir="false" afterPath="$PROJECT_DIR$/light.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-2-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-2-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-2-columns-with-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-2-columns-with-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-2-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-2-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-3-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-3-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-3-columns-with-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-3-columns-with-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-3-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-3-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-4-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-4-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-4-columns-with-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-4-columns-with-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-4-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-4-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-5-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-5-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-5-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-5-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-left-large-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-left-large-thumbnail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-left-right-large-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-left-right-large-thumbnail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-masonry-3-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-masonry-3-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-masonry-4-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-masonry-4-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-2-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-2-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-2-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-2-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-3-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-3-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-3-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-3-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-4-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-4-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-4-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-4-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-5-columns-no-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-5-columns-no-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-modern-5-columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-modern-5-columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-right-large-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/portfolio-right-large-thumbnail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/price-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/price-table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-architectural.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-architectural.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-interior.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-interior.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-lighting.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-renovation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/standard-post-type.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/standard-post-type.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-frame-style.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/team-frame-style.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-plain-style.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/team-plain-style.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-thumbnail-style.html" beforeDir="false" afterPath="$PROJECT_DIR$/unused/team-thumbnail-style.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/logo-trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/upload/logo-trans.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +56,7 @@
       <workItem from="1624770134262" duration="922000" />
       <workItem from="1624771114931" duration="623000" />
       <workItem from="1624771769100" duration="652000" />
-      <workItem from="1624772432790" duration="28940000" />
+      <workItem from="1624772432790" duration="31865000" />
     </task>
     <servers />
   </component>
