@@ -1,4 +1,4 @@
 <?php
-    header('Location: https://www.alot-atelier.com/congratulations.html');
+    header('Location: https://www.google.com');
     exit;
 ?>
