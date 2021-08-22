@@ -1,3 +1,4 @@
 <?php
-    echo "../../congratulations.html";
+    header('Location: ../../congratulations.html');
+    exit;
 ?>
