@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b4a5bf6-cb28-48de-b2a8-76907ae6e649" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/congratulations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/accordion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coming-soon.html" beforeDir="false" afterPath="$PROJECT_DIR$/coming-soon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/inteco-style-custom-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/alot-style-custom-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/inteco-style-custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/alot-style-custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-core.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-core.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get-a-quote.html" beforeDir="false" afterPath="$PROJECT_DIR$/get-a-quote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/light.html" beforeDir="false" afterPath="$PROJECT_DIR$/light.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-architectural.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-architectural.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-interior.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-interior.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-renovation.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-renovation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/congratulations.html" beforeDir="false" afterPath="$PROJECT_DIR$/congratulations.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +65,7 @@
       <workItem from="1624864750457" duration="181000" />
       <workItem from="1625775245788" duration="682000" />
       <workItem from="1629596316068" duration="16000" />
-      <workItem from="1629596953613" duration="1494000" />
+      <workItem from="1629596953613" duration="2999000" />
     </task>
     <servers />
   </component>
