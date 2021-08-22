@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b4a5bf6-cb28-48de-b2a8-76907ae6e649" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get-a-quote.html" beforeDir="false" afterPath="$PROJECT_DIR$/get-a-quote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/quform/quote.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quote.php" beforeDir="false" afterPath="$PROJECT_DIR$/quote.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1624864750457" duration="181000" />
       <workItem from="1625775245788" duration="682000" />
       <workItem from="1629596316068" duration="16000" />
-      <workItem from="1629596953613" duration="4989000" />
+      <workItem from="1629596953613" duration="5258000" />
     </task>
     <servers />
   </component>
